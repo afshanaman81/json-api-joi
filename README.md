@@ -1,2 +1,2 @@
 # json-api-joi
-json-api and schema validation using JOI
+json:api standard, and schema validation using Joi
